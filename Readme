@@ -1,10 +1,10 @@
-### Home Health Monitoring using Deep Transfer Learning & Edge Computing
+## Home Health Monitoring using Deep Transfer Learning & Edge Computing
 This project presents a Deep Transfer Learning-based Edge Computing solution for home health monitoring, with a specific focus on fall detection from RGB images. Built using Python, Keras, OpenCV, and socket programming, it leverages a pretrained VGG16 model and a GUI interface via Tkinter for seamless interaction and real-time health data transmission to the cloud.
 
 ## 📌 Abstract
 With the rise in aging populations and chronic diseases, remote health monitoring is becoming increasingly essential. This system integrates AI-driven fall detection with edge computing and cloud communication, enabling caregivers and healthcare providers to monitor patients remotely and respond promptly to health incidents like falls.
 
-### 🧠 Features
+## 🧠 Features
 📁 Dataset Upload -Load a fall detection dataset via GUI
 
 🤖 Model Loading - Load pretrained VGG16-based transfer learning model
