@@ -1,4 +1,4 @@
-## Home Health Monitoring using Deep Transfer Learning & Edge Computing
+# Home Health Monitoring using Deep Transfer Learning & Edge Computing
 This project presents a Deep Transfer Learning-based Edge Computing solution for home health monitoring, with a specific focus on fall detection from RGB images. Built using Python, Keras, OpenCV, and socket programming, it leverages a pretrained VGG16 model and a GUI interface via Tkinter for seamless interaction and real-time health data transmission to the cloud.
 
 ## 📌 Abstract
@@ -17,7 +17,7 @@ With the rise in aging populations and chronic diseases, remote health monitorin
 
 🧠 Edge Processing -  Runs detection locally and sends results to a centralized server
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Layer	Technology
 Frontend GUI	Tkinter
@@ -34,9 +34,13 @@ Cloud Transfer	Pickle + TCP Socket
 
 home-health-monitoring/
 ├── model/                    # Contains trained model (.h5)
+|
 ├── testImages/              # Test images for detection
+|
 ├── SERVER.py                # Server-side code to receive image & prediction
+|
 ├── main.py (GUI)            # Tkinter-based GUI client for detection
+|
 ├── README.md                # Project description
 
 ##🚀 How to Run
@@ -44,7 +48,7 @@ home-health-monitoring/
 Clone the repository
 
 
-### git clone https://github.com/yourusername/home-health-monitoring.git
+git clone url
 cd home-health-monitoring
 Install dependencies
 Make sure you have the following installed:
@@ -60,7 +64,7 @@ Make sure you have the following installed:
 5. NumPy
 
 
-# pip install -r requirements.txt
+### pip install -r requirements.txt
 
 Start the Server
 
@@ -93,4 +97,18 @@ The dataset is provided as a zipped file `AISensors.zip`. Please download it fro
 
 ## Results 
 
-![Screenshot 2024-06-21 151430](https://github.com/ashajyothi06/Chatbot/blob/main/src/assets/images/Screenshot%202025-06-10%20214716.png)
+![Screenshot 2024-06-21 151430](https://github.com/ashajyothi06/IOMP-MiniProject/tree/main/images)
+
+![Screenshot 2024-06-21 151430](https://github.com/ashajyothi06/IOMP-MiniProject/blob/main/images/second.png)
+
+![Screenshot 2024-06-21 151430](https://github.com/ashajyothi06/IOMP-MiniProject/blob/main/images/third.png)
+
+![Screenshot 2024-06-21 151430](https://github.com/ashajyothi06/IOMP-MiniProject/blob/main/images/fourth.png)
+
+![Screenshot 2024-06-21 151430](https://github.com/ashajyothi06/IOMP-MiniProject/blob/main/images/fifth.png)
+
+
+
+
+
+
