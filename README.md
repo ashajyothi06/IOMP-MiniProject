@@ -29,19 +29,7 @@ Model	model/model.h5
 Cloud Transfer	Pickle + TCP Socket
 
 
-## 📂 Project Structure
 
-
-home-health-monitoring/
-├── model/                    # Contains trained model (.h5)
-|
-├── testImages/              # Test images for detection
-|
-├── SERVER.py                # Server-side code to receive image & prediction
-|
-├── main.py (GUI)            # Tkinter-based GUI client for detection
-|
-├── README.md                # Project description
 
 ##🚀 How to Run
 
@@ -70,17 +58,17 @@ Make sure you have the following installed:
 
 ### pip install -r requirements.txt
 
-Start the Server
+### Start the Server
 
 
 python SERVER.py
 
-Run the GUI Application
+### Run the GUI Application
 
 
 python main.py
 
-Steps on GUI:
+### Steps on GUI:
 
 Upload Dataset
 
