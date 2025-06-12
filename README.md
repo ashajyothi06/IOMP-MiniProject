@@ -91,7 +91,7 @@ The dataset is provided as a zipped file `AISensors.zip`. Please download it fro
 
 ## Results 
 
-![Screenshot 2024-06-21 151430](https://github.com/ashajyothi06/IOMP-MiniProject/tree/main/images/first.png)
+![Screenshot 2024-06-21 151430](https://github.com/ashajyothi06/IOMP-MiniProject/blob/main/images/first.png)
 
 ![Screenshot 2024-06-21 151430](https://github.com/ashajyothi06/IOMP-MiniProject/blob/main/images/second.png)
 
