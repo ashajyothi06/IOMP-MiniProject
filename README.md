@@ -90,3 +90,7 @@ Automatically sends result to server
 ## Dataset
 
 The dataset is provided as a zipped file `AISensors.zip`. Please download it from the repo and unzip before running the project.
+
+## Results 
+
+![Screenshot 2024-06-21 151430](https://github.com/ashajyothi06/Chatbot/blob/main/src/assets/images/Screenshot%202025-06-10%20214716.png)
