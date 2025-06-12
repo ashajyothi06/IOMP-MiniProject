@@ -49,8 +49,12 @@ Clone the repository
 
 
 git clone url
+
+
 cd home-health-monitoring
+
 Install dependencies
+
 Make sure you have the following installed:
 
 1. Python 3.7
@@ -70,10 +74,12 @@ Start the Server
 
 
 python SERVER.py
+
 Run the GUI Application
 
 
 python main.py
+
 Steps on GUI:
 
 Upload Dataset
@@ -86,7 +92,7 @@ View prediction result and confidence
 
 Automatically sends result to server
 
-### Display the Results
+
 
 ## Download Dataset ##
 [https://drive.google.com/file/d/1cGWhM2WY35rOBjJS9IGNjO-gRnhjo-PH/view?usp=drivesdk]
@@ -97,7 +103,7 @@ The dataset is provided as a zipped file `AISensors.zip`. Please download it fro
 
 ## Results 
 
-![Screenshot 2024-06-21 151430](https://github.com/ashajyothi06/IOMP-MiniProject/tree/main/images)
+![Screenshot 2024-06-21 151430](https://github.com/ashajyothi06/IOMP-MiniProject/tree/main/images/first.png)
 
 ![Screenshot 2024-06-21 151430](https://github.com/ashajyothi06/IOMP-MiniProject/blob/main/images/second.png)
 
